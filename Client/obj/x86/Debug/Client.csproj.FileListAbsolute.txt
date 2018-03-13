@@ -1,0 +1,7 @@
+D:\ServerChat\Client\bin\Debug\Client.exe
+D:\ServerChat\Client\bin\Debug\Client.pdb
+D:\ServerChat\Client\obj\x86\Debug\Client.Form1.resources
+D:\ServerChat\Client\obj\x86\Debug\Client.Properties.Resources.resources
+D:\ServerChat\Client\obj\x86\Debug\Client.csproj.GenerateResource.Cache
+D:\ServerChat\Client\obj\x86\Debug\Client.exe
+D:\ServerChat\Client\obj\x86\Debug\Client.pdb
